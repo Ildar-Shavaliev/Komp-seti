@@ -1,0 +1,14 @@
+
+p {
+    width: 70%;
+    max-width: 390px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 2px solid #2a5885;
+    text-align: justify;
+    text-indent: 1.5em;
+    font-size: 18px;
+    line-height: 1.8;
+    position: relative;
+    }
+
